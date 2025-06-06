@@ -1,0 +1,6 @@
+| Metric                             | Goal        |
+| ---------------------------------- | ----------- |
+| **First Contentful Paint (FCP)**   | < 1.5s      |
+| **Largest Contentful Paint (LCP)** | < 2.5s      |
+| **Total Blocking Time (TBT)**      | **< 200ms** |
+| **Time to Interactive (TTI)**      | < 3.8s      |
